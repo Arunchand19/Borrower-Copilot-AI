@@ -1,9 +1,9 @@
 # Borrower Copilot
 
 ## Introduction
+<img width="1896" height="907" alt="Screenshot 2026-09-05 020145" src="https://github.com/user-attachments/assets/5e0e3d64-481c-4771-9d98-ca623db9d0d1" />
 
 Borrower Copilot is a private, local-first assistant for Indian borrowers preparing to meet a lender. It helps answer four practical questions:
-
 1. Should I borrow, borrow less, or pause?
 2. What might a lender sanction versus what can I safely carry?
 3. What interest-rate band and all-in APR should I negotiate?
